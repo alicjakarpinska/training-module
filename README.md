@@ -8,3 +8,5 @@ This is training for today
 Hopefull this is detailed enough
 
 This will close the issue
+
+this is some extra training
